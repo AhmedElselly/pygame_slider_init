@@ -11,4 +11,4 @@ def import_folder(path):
     return surface_list
 
 
-import_folder('./gui/graphics/character/run')
+# import_folder('./gui/graphics/character/run')
